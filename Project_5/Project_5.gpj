@@ -1,0 +1,42 @@
+!1237;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2343;d
+[\012  grasp [\012   legendy -29.631578947368418\012   legendx -254.5\012   version 1\012   winflags 3\012   eheight 945\012   ewidth 840\012   height 945\012   width 840\012   wbp 0\012   initlayout 0\012   yoffs -118.23684210526282\012   xoffs -199.34210526315758\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "<Vehicle/java>"\012    fromclassfiledate 0\012    fromclassfilename "%\011Vehicle.java.class>"\012    fromfilename "%\011Vehicle.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -510.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Car"\012    fromclassfiledate 0\012    fromclassfilename "%\011Car.class"\012    fromfilename "%\011Car.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -376.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Motorcycle"\012    fromclassfiledate 0\012    fromclassfilename "%\011Motorcycle.class"\012    fromfilename "%\011Motorcycle.java"\012   ]\012   id 2\012   graphics [\012    center [\012     x -266.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "SemiTractorTrailer"\012    fromclassfiledate 0\012    fromclassfilename "%\011SemiTractorTrailer.class"\012    fromfilename "%\011SemiTractorTrailer.java"\012   ]\012   id 3\012   graphics [\012    center [\012     x -132.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Truck"\012    fromclassfiledate 0\012    fromclassfilename "%\011Truck.class"\012    fromfilename "%\011Truck.java"\012   ]\012   id 4\012   graphics [\012    center [\012     x 1.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!146;g
+%\011Truck.java
+%\011Car.java
+%\011UseTaxList.java
+%\011UseTaxComparator.java
+%\011Vehicle.java
+%\011SemiTractorTrailer.java
+%\011Motorcycle.java
+!146;f
+%\011Truck.java
+%\011Car.java
+%\011UseTaxList.java
+%\011UseTaxComparator.java
+%\011Vehicle.java
+%\011SemiTractorTrailer.java
+%\011Motorcycle.java
+!180;l
+%\011MotorcycleTest.java
+%\011TruckTest.java
+%\011UseTaxListTest.java
+%\011CarTest.java
+%\011VehiclesPart2Test.java
+%\011UseTaxComparatorTest.java
+%\011SemiTractorTrailerTest.java
+!1365;t
+jgrJUnit0xr	%\011Truck.java	1524201335500:P%\011TruckTest.java	%\011Car.java	1524201335500:P%\011CarTest.java	%\011UseTaxComparatorTest.java	1524201335500:P%\011UseTaxComparator.java	%\011MotorcycleTest.java	1524201335500:P%\011Motorcycle.java	%\011TruckTest.java	1524201335500:P%\011Truck.java	%\011UseTaxList.java	1524201335500:P%\011UseTaxListTest.java	%\011UseTaxListTest.java	1524201335500:P%\011UseTaxList.java	%\011UseTaxComparator.java	1524201335500:P%\011UseTaxComparatorTest.java	%\011CarTest.java	1524201335500:P%\011Car.java	%\011VehiclesPart2Test.java	1524201335500:P	%\011SemiTractorTrailerTest.java	1524201335500:P%\011SemiTractorTrailer.java	%\011SemiTractorTrailer.java	1524201335500:P%\011SemiTractorTrailerTest.java	%\011Motorcycle.java	1524201335500:P%\011MotorcycleTest.java	
+jgrCheckstyle0xr	%\011Truck.java	1524201328892:P	%\011Car.java	1524201328892:P	%\011UseTaxComparatorTest.java	1524201328892:P	%\011MotorcycleTest.java	1524201328892:P	%\011TruckTest.java	1524201328892:P	%\011UseTaxList.java	1524201328892:P	%\011UseTaxListTest.java	1524201328892:P	%\011UseTaxComparator.java	1524201328892:P	%\011Vehicle.java	1524201328892:P	%\011CarTest.java	1524201328892:P	%\011VehiclesPart2Test.java	1524201328892:P	%\011SemiTractorTrailer.java	1524201328892:P	%\011SemiTractorTrailerTest.java	1524201328892:P	%\011Motorcycle.java	1524201328892:P	
